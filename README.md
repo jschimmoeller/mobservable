@@ -10,3 +10,7 @@ https://www.mendix.com/tech-blog/making-react-reactive-pursuit-high-performing-e
 jsfiddle
 
 https://jsfiddle.net/69z2wepo/11506/
+
+jsfiddle with reflux, store, mobserver
+
+https://jsfiddle.net/69z2wepo/11514/
