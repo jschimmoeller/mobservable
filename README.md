@@ -16,3 +16,5 @@ jsfiddle with reflux, store, mobserver
 https://jsfiddle.net/69z2wepo/11520/
 https://jsfiddle.net/69z2wepo/11551/
 https://jsfiddle.net/69z2wepo/11621/
+https://jsfiddle.net/69z2wepo/11654/
+
